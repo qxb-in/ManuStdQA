@@ -8,6 +8,7 @@ We welcome early feedback, bug reports, and suggestions via GitHub Issues. Once 
 
 Samples：
 
-[fig1.pdf](https://github.com/user-attachments/files/22085901/fig1.pdf)
+<img width="1590" height="1005" alt="image" src="https://github.com/user-attachments/assets/27bac2fb-f221-4725-9d1c-d160068e58e7" />
+
 
 **There are too many images, I only uploaded a small portion corresponding to those included in samples.jsonl.**

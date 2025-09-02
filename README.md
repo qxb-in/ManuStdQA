@@ -6,4 +6,8 @@ This repository is currently under active curation. We are incrementally cleanin
 
 We welcome early feedback, bug reports, and suggestions via GitHub Issues. Once the full-scale dataset has completed our rigorous review pipeline, we will publish the complete version together with comprehensive documentation, usage guidelines, and benchmark results. Stay tuned for upcoming releases, and thank you for your patience and interest!
 
-**Because there are too many images, I only uploaded a small portion corresponding to those included in samples.jsonl.**
+Samples：
+
+[fig1.pdf](https://github.com/user-attachments/files/22085901/fig1.pdf)
+
+**There are too many images, I only uploaded a small portion corresponding to those included in samples.jsonl.**
